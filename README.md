@@ -1,7 +1,4 @@
-Офіс 365 А1 - підписка
 # План
-- [Markdown Navigation](#markdown-navigation)
-    - [Features](#features)
 - Загальні питання
     - [Організація відеодзвінків із Microsoft Teams](#організація-відеодзвінків-із-microsoft-teams)
 

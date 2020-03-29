@@ -2,8 +2,8 @@
 # План
 - [Markdown Navigation](#markdown-navigation)
     - [Features](#features)
-- [Загальні питання](#організація-відеодзвінків-із-microsoft-teams)
-    - [Організація відеодзвінків із Microsoft Teams]
+- Загальні питання
+    - [Організація відеодзвінків із Microsoft Teams](#організація-відеодзвінків-із-microsoft-teams)
 
 ## Організація відеодзвінків із Microsoft Teams 
 Важливо знати: ліміт користувачів 250 людей

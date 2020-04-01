@@ -1,6 +1,6 @@
 # План
 - Загальні питання
-    - [Що потрібно для користування Microsoft Teams?](#що-потрібно-для-користування-Microsoft-Teams?)
+    - [Що потрібно для користування Microsoft Teams?](#що-потрібно-для-користування-Microsoft-Teams)
     - [Що таке Microsoft Teams?](#що-таке-microsoft-teams)
     - [Чи безкоштовний Microsoft Teams?](#чи-безкоштовний-microsoft-teams)
     - [Організація дистанційного навчання з Microsoft Teams](#організація-дистанційного-навчання-з-microsoft-teams)

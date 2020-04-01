@@ -5,6 +5,7 @@
     - [Віртуальна школа чи університет в Microsoft Teams](#віртуальна-школа-чи-університет-в-microsoft-teams)
     - [Основні ролі Microsoft Teams](#основні-ролі-microsoft-teams)
     - [Вибір типу команди для співпраці в Microsoft Teams](#вибір-типу-команди-для-співпраці-в-microsoft-teams)
+    - [Створення віртуального класу в Microsoft Teams](#створення-віртуального-класу-в-microsoft-teams)
     - [Організація відеодзвінків із Microsoft Teams](#організація-відеодзвінків-із-microsoft-teams)
 
 
@@ -67,7 +68,7 @@
 5. Додайте учнів та вчителя класу, а потім натисніть кнопку **Закрити*.
 6. Клас створено ✔
 
-![](/resources/create-class-team.mp4)
+![](/resources/create-class-team.gif)
 
 
 ## Організація відеодзвінків із Microsoft Teams 

@@ -114,6 +114,6 @@
 
 ## Як додати вкладки до каналу?
 
-![](/resources/Як додати вкладки до каналу.gif)
+![](/resources/how-to-add-tab-to-chanel.gif)
 
 
